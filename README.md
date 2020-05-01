@@ -21,7 +21,7 @@
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/) - Microsoft IDE
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Language
 - [Xamarin](https://dotnet.microsoft.com/apps/xamarin) - An app platform for building Android and iOS apps with .NET and C#
-- [SQLite-net-PCL]() - SQLite.NET library
+- [SQLite-net-PCL](https://docs.microsoft.com/pt-br/xamarin/android/data-cloud/data-access/using-sqlite-orm) - SQLite.NET library
 
 ### 📗 License
 
