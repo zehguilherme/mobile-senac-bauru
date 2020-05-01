@@ -22,6 +22,7 @@
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Language
 - [Xamarin](https://dotnet.microsoft.com/apps/xamarin) - An app platform for building Android and iOS apps with .NET and C#
 - [SQLite-net-PCL](https://docs.microsoft.com/pt-br/xamarin/android/data-cloud/data-access/using-sqlite-orm) - SQLite.NET library
+- [NuGet](https://www.nuget.org/) - Package manager
 
 ### 📗 License
 
