@@ -1,0 +1,14 @@
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\LojaSapatos\LojaSapatos\LojaSapatos\bin\Debug\netstandard2.0\LojaSapatos.deps.json
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\LojaSapatos\LojaSapatos\LojaSapatos\bin\Debug\netstandard2.0\LojaSapatos.dll
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\LojaSapatos\LojaSapatos\LojaSapatos\obj\Debug\netstandard2.0\LojaSapatos.csprojAssemblyReference.cache
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\LojaSapatos\LojaSapatos\LojaSapatos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\LojaSapatos\LojaSapatos\LojaSapatos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\LojaSapatos\LojaSapatos\LojaSapatos\obj\Debug\netstandard2.0\LojaSapatos.AssemblyInfoInputs.cache
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\LojaSapatos\LojaSapatos\LojaSapatos\obj\Debug\netstandard2.0\LojaSapatos.AssemblyInfo.cs
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\LojaSapatos\LojaSapatos\LojaSapatos\bin\Debug\netstandard2.0\ref\LojaSapatos.dll
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\LojaSapatos\LojaSapatos\LojaSapatos\bin\Debug\netstandard2.0\LojaSapatos.pdb
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\LojaSapatos\LojaSapatos\LojaSapatos\obj\Debug\netstandard2.0\LojaSapatos.csproj.CoreCompileInputs.cache
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\LojaSapatos\LojaSapatos\LojaSapatos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\LojaSapatos\LojaSapatos\LojaSapatos\obj\Debug\netstandard2.0\LojaSapatos.dll
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\LojaSapatos\LojaSapatos\LojaSapatos\obj\Debug\netstandard2.0\ref\LojaSapatos.dll
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\LojaSapatos\LojaSapatos\LojaSapatos\obj\Debug\netstandard2.0\LojaSapatos.pdb
