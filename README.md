@@ -25,6 +25,14 @@
 - [Sqlite-net-extensions](https://bitbucket.org/twincoders/sqlite-net-extensions/src/master/) - Support for 1:1, 1:N, N:1, N:M and inverse relationships
 - [NuGet](https://www.nuget.org/) - Package manager
 
+### 🤔 Contributing
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new Pull Request
+
 ### 📗 License
 
 - [MIT](LICENSE)
