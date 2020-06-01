@@ -33,10 +33,10 @@
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
-### 📗 License
+## 📝 License
 
-- [MIT](LICENSE)
+This project is under the MIT license. See the [LICENSE](https://github.com/zehguilherme/mobile-senac-bauru/blob/master/LICENSE) for more information.
 
 ---
 
-#### Made by [José Guilherme Paro Monteiro Tomaine](https://www.linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine/).
+Made with 💟 by José Guilherme Paro Monteiro Tomaine 👋 [Talk to me!](https://www.linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine/)
