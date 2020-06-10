@@ -40,6 +40,10 @@
 
 - 02/18/2020 - 08/25/2020
 
+## ✍ Information
+
+- [Notion](https://www.notion.so/zehguilherme/Programador-de-Dispositivos-M-veis-24e8c0d5010d4811a84522b04048be20)
+
 ### ⚙ Technologies
 
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/) - Microsoft IDE
