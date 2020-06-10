@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://pbs.twimg.com/profile_images/1076179654321586176/5Dy0g8kH_400x400.jpg" height="200">
+    <img src="https://www.sp.senac.br/imagens/logo_senac_branco.png" alt="Senac" style="background-color: #000000; padding: 50px">
 </div>
 
 <h1 align="center">
