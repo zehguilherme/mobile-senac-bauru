@@ -1,10 +1,14 @@
 <div align="center">
-    <img src="https://www.sp.senac.br/imagens/logo_senac_branco.png" alt="Senac" style="background-color: #000000; padding: 50px">
+    <img src="https://www.sp.senac.br/moldura/favicon/apple-icon-144x144.png" alt="Senac">
 </div>
 
 <h1 align="center">
     📱 Mobile Device Programming Course
 </h1>
+
+<h2 align="center">
+  Senac
+</h2>
 
 <h4 align="center">
   Bauru / SP - Brazil
