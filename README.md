@@ -6,6 +6,26 @@
     📱 Mobile Device Programming Course
 </h1>
 
+<h4 align="center">
+  Bauru / SP - Brazil
+</h4>
+
+<p align="center">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zehguilherme/mobile-senac-bauru">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/zehguilherme/mobile-senac-bauru">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/zehguilherme/mobile-senac-bauru">
+  <a href="https://www.codacy.com/manual/zehguilherme/mobile-senac-bauru?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zehguilherme/mobile-senac-bauru&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/b955f052a148445ca1ac673cf70e5323"/></a>
+  <img alt="GitHub" src="https://img.shields.io/github/license/zehguilherme/mobile-senac-bauru">
+</p>
+
+<p align="center">
+    <a href="#-professor">Professor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-period">Period</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-license">License</a>
+</p>
+
 ### 👨 Professor
 
 - Carlos Maiello
@@ -32,10 +52,11 @@
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+6. After the merge of your pull request is done, you can delete your branch.
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/zehguilherme/mobile-senac-bauru/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](LICENSE) for more information.
 
 ---
 
