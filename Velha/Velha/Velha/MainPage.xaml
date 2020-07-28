@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Velha.MainPage">
+
+    <StackLayout>
+        <Frame>
+            <StackLayout Margin="40">
+                <Label x:Name="Mensagem" 
+                       FontSize="Large"
+                       Text=""
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center" />
+            </StackLayout>
+        </Frame>
+        <Grid VerticalOptions="FillAndExpand"
+              x:Name="Grid">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            
+            <!-- Linha 1 -->
+            <ImageButton Source="vazio.png"
+                         BackgroundColor="White"
+                         Grid.Row="0"
+                         Grid.Column="0"
+                         Clicked="ImageButton_Clicked"/>
+            <ImageButton Source="vazio.png"
+                         BackgroundColor="White" 
+                         Grid.Row="0"
+                         Grid.Column="1"
+                         Clicked="ImageButton_Clicked" />
+            <ImageButton Source="vazio.png"
+                         BackgroundColor="White" 
+                         Grid.Row="0"
+                         Grid.Column="2"
+                         Clicked="ImageButton_Clicked" />
+
+            <!-- Linha 2 -->
+            <ImageButton Source="vazio.png"
+                         BackgroundColor="White" 
+                         Grid.Row="1"
+                         Grid.Column="0"
+                         Clicked="ImageButton_Clicked" />
+            <ImageButton Source="vazio.png"
+                         BackgroundColor="White" 
+                         Grid.Row="1"
+                         Grid.Column="1"
+                         Clicked="ImageButton_Clicked" />
+            <ImageButton Source="vazio.png"
+                         BackgroundColor="White" 
+                         Grid.Row="1"
+                         Grid.Column="2"
+                         Clicked="ImageButton_Clicked" />
+
+            <!-- Linha 3 -->
+            <ImageButton Source="vazio.png"
+                         BackgroundColor="White" 
+                         Grid.Row="2"
+                         Grid.Column="0"
+                         Clicked="ImageButton_Clicked" />
+            <ImageButton Source="vazio.png"
+                         BackgroundColor="White" 
+                         Grid.Row="2"
+                         Grid.Column="1"
+                         Clicked="ImageButton_Clicked" />
+            <ImageButton Source="vazio.png"
+                         BackgroundColor="White" 
+                         Grid.Row="2"
+                         Grid.Column="2"
+                         Clicked="ImageButton_Clicked" />
+        </Grid>
+    </StackLayout>
+
+</ContentPage>
