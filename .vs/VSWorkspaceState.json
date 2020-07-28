@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Velha",
+    "\\Velha\\Velha",
+    "\\Velha\\Velha\\Velha"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Velha\\Velha.sln",
   "PreviewInSolutionExplorer": false
 }
