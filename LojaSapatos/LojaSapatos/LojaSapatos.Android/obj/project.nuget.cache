@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xoCMeZLdgu8ZXPfNNF9cXKBPaDLopMX8NPV5PLgs9t9PYYCctulcYzcIPaDsYtH6opoQFLCMFRnN9lh/FZTMEw==",
+  "dgSpecHash": "Bz7XDG3F+K+18rZgePE9cQYVMtqrg/zkHGqQvcsqpSVQvEPhE99tQKjP8vBGApAusTZr686F1Kdy/9xjRGCWBQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jgtom\\source\\repos\\zehguilherme\\mobile-senac-bauru\\LojaSapatos\\LojaSapatos\\LojaSapatos.Android\\LojaSapatos.Android.csproj",
   "expectedPackageFiles": [
@@ -48,7 +48,7 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.versionedparcelable\\28.0.0.3\\xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\jgtom\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
   ],
   "logs": []
 }

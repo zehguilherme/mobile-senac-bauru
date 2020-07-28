@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bAIgGxaQ2YRgerKu6Tizi7seWAYKBuaeHLAboRDoUcg0mBUKYpyrQ7TyOjArPgxS/sd6UqSBIuah1bc+4V7XsA==",
+  "dgSpecHash": "Wpy0QUyHiBfTvEAh4OsDoaUqNqGBfgJDc6Hw53L5TV9LPDj9LMfy9oWQXhzWAPNGePAH15sxcz3ffBY3rdMF0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\jgtom\\source\\repos\\zehguilherme\\mobile-senac-bauru\\LojaSapatos\\LojaSapatos\\LojaSapatos.iOS\\LojaSapatos.iOS.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,7 @@
     "C:\\Users\\jgtom\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.13\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
     "C:\\Users\\jgtom\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\jgtom\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
   ],
   "logs": []
 }
