@@ -15,5 +15,10 @@ namespace Velha.Modelos
         public DateTime DataFinal { get; set; }
 
         public string NomeVencedor { get; set; }
+
+        public Partida()
+        {
+            this.DataInicial = DateTime.Now;
+        }
     }
 }

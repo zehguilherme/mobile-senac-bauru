@@ -110,6 +110,16 @@ namespace Velha
             return Jogador.NENHUM;
         }
 
+        public bool Finalizado()
+        {
+            for (int l = 0; l < 3; l++)
+                for (int c = 0; c < 3; c++)
+                    if (tabuleiro[l, c] == Jogador.NENHUM)
+                        return false;
+
+            return true;
+        }
+
         public void ZerarTabuleiro()
         {
             for (int l=0; l < 3; l++)

@@ -80,6 +80,8 @@
                          Grid.Column="2"
                          Clicked="ImageButton_Clicked" />
         </Grid>
+
+        <Button Text="Listagem de Vencedores" Clicked="ListarTodosVencedores"/>
     </StackLayout>
 
 </ContentPage>

@@ -8,7 +8,7 @@ namespace Velha
 {
     public partial class App : Application
     {
-        static DB database;
+        private static DB database;
 
         public static DB Database
         {
@@ -18,6 +18,7 @@ namespace Velha
                 {
                     database = new DB(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "Jogadas.db"));
                 }
+
                 return database;
             }
         }
@@ -26,7 +27,7 @@ namespace Velha
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()

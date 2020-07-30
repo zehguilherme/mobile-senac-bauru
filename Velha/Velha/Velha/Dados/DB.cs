@@ -45,9 +45,9 @@ namespace Velha.Serviços
         }
 
         //Deletar partida
-        public Task<int> DeletePartidaAsync (Partida partida)
+        public async void DeletePartidaAsync (Partida partida)
         {
-            return _database.DeleteAsync(partida);
+            await _database.DeleteAsync(partida);
         }
     }
 }
