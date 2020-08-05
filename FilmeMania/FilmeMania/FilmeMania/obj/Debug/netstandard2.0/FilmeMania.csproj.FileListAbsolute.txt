@@ -1,0 +1,15 @@
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\bin\Debug\netstandard2.0\FilmeMania.deps.json
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\bin\Debug\netstandard2.0\FilmeMania.dll
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\bin\Debug\netstandard2.0\ref\FilmeMania.dll
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\bin\Debug\netstandard2.0\FilmeMania.pdb
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\obj\Debug\netstandard2.0\FilmeMania.csprojAssemblyReference.cache
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\obj\Debug\netstandard2.0\Views\MoviePage.xaml.g.cs
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\obj\Debug\netstandard2.0\FilmeMania.AssemblyInfoInputs.cache
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\obj\Debug\netstandard2.0\FilmeMania.AssemblyInfo.cs
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\obj\Debug\netstandard2.0\FilmeMania.csproj.CoreCompileInputs.cache
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\obj\Debug\netstandard2.0\FilmeMania.dll
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\obj\Debug\netstandard2.0\ref\FilmeMania.dll
+C:\Users\jgtom\source\repos\zehguilherme\mobile-senac-bauru\FilmeMania\FilmeMania\FilmeMania\obj\Debug\netstandard2.0\FilmeMania.pdb

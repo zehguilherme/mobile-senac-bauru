@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6L+sJKEOB6GOChHJvwHXR7S3IPxMXkzOv59gf0tnXbk/tcSmvRmS3z2cZHavLT7NdZ0zQMbQDV8DioruZvZP1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jgtom\\source\\repos\\zehguilherme\\mobile-senac-bauru\\FilmeMania\\FilmeMania\\FilmeMania.iOS\\FilmeMania.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jgtom\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\jgtom\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
