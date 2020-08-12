@@ -10,10 +10,6 @@
   Senac
 </h2>
 
-<h4 align="center">
-  Bauru / SP - Brazil
-</h4>
-
 <p align="center">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zehguilherme/mobile-senac-bauru">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/zehguilherme/mobile-senac-bauru">
@@ -21,6 +17,14 @@
   <a href="https://www.codacy.com/manual/zehguilherme/mobile-senac-bauru?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zehguilherme/mobile-senac-bauru&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/b955f052a148445ca1ac673cf70e5323"/></a>
   <img alt="GitHub" src="https://img.shields.io/github/license/zehguilherme/mobile-senac-bauru">
 </p>
+
+<div align="center">
+  <a href="README.md">English</a>
+  ·
+  <a href="README-pt.md">Português</a>
+</div>
+
+<br>
 
 <p align="center">
     <a href="#-professor">Professor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -38,20 +42,20 @@
 
 ### 📆 Period
 
-- 02/18/2020 - 08/25/2020
+- 02/18/2020 - Present
 
 ## ✍ Information
 
 - [Notion](https://www.notion.so/zehguilherme/Programador-de-Dispositivos-M-veis-24e8c0d5010d4811a84522b04048be20)
 
-### ⚙ Technologies
+### 🚀 Technologies
 
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/) - Microsoft IDE
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Language
 - [Xamarin](https://dotnet.microsoft.com/apps/xamarin) - An app platform for building Android and iOS apps with .NET and C#
 - [SQLite-net-PCL](https://docs.microsoft.com/pt-br/xamarin/android/data-cloud/data-access/using-sqlite-orm) - SQLite.NET library
 - [Sqlite-net-extensions](https://bitbucket.org/twincoders/sqlite-net-extensions/src/master/) - Support for 1:1, 1:N, N:1, N:M and inverse relationships
-- [NuGet](https://www.nuget.org/) - Package manager
+- [Adobe XD](https://www.adobe.com/br/products/xd.html)
 
 ### 🤔 Contributing
 
