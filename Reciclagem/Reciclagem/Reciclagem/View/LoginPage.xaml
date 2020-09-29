@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Reciclagem.View.LoginPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="Logo.png"/>
+
+            <Label Text="Informe seus dados para entrar"
+                   TextColor="{x:StaticResource SecundaryColor}"/>
+            
+            <Entry Placeholder="Digite seu e-mail"
+                   Text="{Binding Email}"/>
+            
+            <Entry Placeholder="Digite sua senha"
+                   Text="{Binding Senha}"/>
+            
+            <Button Text="Entrar" Clicked="Entrar"/>
+
+            <Label Text="{Binding ErrorMessage}" IsVisible="{Binding IsError}"/>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Não possui cadastro?"/>
+                <Label Text="Cadastre-se" FontAttributes="Bold"/>
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                </StackLayout.GestureRecognizers>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

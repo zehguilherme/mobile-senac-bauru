@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Reciclagem.App">
+    <Application.Resources>
+        <Color x:Key="PrimaryColor">#B8BF0F</Color>
+        <Color x:Key="SecundaryColor">#788C2D</Color>
+        <Color x:Key="PageBackgroundColor">#F1F3CE</Color>
+        
+        <Style TargetType="{x:Type ContentPage}" ApplyToDerivedTypes="True">
+            <Setter Property="Padding" Value="20"/>
+            <Setter Property="BackgroundColor" Value="{x:StaticResource PageBackgroundColor}"/>
+        </Style>
+        
+        <Style TargetType="{x:Type Label}">
+            <Setter Property="FontFamily" Value="Roboto"/>
+            <Setter Property="FontSize" Value="16"/>
+        </Style>
+
+        <Style TargetType="{x:Type Entry}">
+            <Setter Property="FontFamily" Value="Roboto"/>
+            <Setter Property="BackgroundColor" Value="#D1D9A0"/>
+        </Style>
+
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="BackgroundColor" Value="{StaticResource PrimaryColor}"/>
+            <Setter Property="TextColor" Value="#FFFFFFFF"/>
+            <Setter Property="CornerRadius" Value="5"/>
+        </Style>
+    </Application.Resources>
+</Application>
