@@ -56,6 +56,7 @@
 - [SQLite-net-PCL](https://docs.microsoft.com/pt-br/xamarin/android/data-cloud/data-access/using-sqlite-orm) - SQLite.NET library
 - [Sqlite-net-extensions](https://bitbucket.org/twincoders/sqlite-net-extensions/src/master/) - Support for 1:1, 1:N, N:1, N:M and inverse relationships
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
+- [Model-View-ViewModel](https://docs.microsoft.com/pt-br/xamarin/xamarin-forms/enterprise-application-patterns/mvvm)
 - REST API
 
 ### 🤔 Contributing
